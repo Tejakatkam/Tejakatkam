@@ -123,18 +123,6 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejakatkam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Teja's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejakatkam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejakatkam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📬 Let's Connect!
 
 <div align="center">

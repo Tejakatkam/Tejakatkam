@@ -22,7 +22,7 @@
     <a href="mailto:tejakatkam2005@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://tejakatkam.onrender.com/resume-1788345117417.pdf" target="_blank">
+    <a href="https://tejakatkam.onrender.com/resume-1788990941564.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </p>
 </div>

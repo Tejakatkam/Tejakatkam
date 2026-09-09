@@ -22,6 +22,8 @@
     <a href="mailto:tejakatkam2005@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://tejakatkam.onrender.com/resume-1788345117417.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </p>
 </div>
 
@@ -31,7 +33,7 @@
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (Artificial Intelligence) at CMR Technical Campus.
 - 🔭 **Specialization:** Machine Learning, Deep Learning, and Algorithm Design.
-- 💡 **Problem Solving:** Solved **500+ DSA problems** across LeetCode, CodeChef, and Codeforces.
+- 💡 **Problem Solving:** Solved **500+ DSA problems** across LeetCode, CodeChef, Codeforces and Mentorpick(Academic Training).
 - 🏆 **Key Achievements:**
   - **TCS CodeVita Season 13:** Global Rank 7,802
   - **HackerEarth:** 2nd Place in College-Level Coding Contest

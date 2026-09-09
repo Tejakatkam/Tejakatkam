@@ -95,8 +95,3 @@
 </p>
 
 ---
-
-
-<div align="center">
-  <sub>⭐️ Profile Views: <img src="https://komarev.com/ghpvc/?username=Tejakatkam&label=Visitors&color=2563eb&style=flat-square" alt="Profile Views" /></sub>
-</div>

@@ -73,7 +73,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Smart Civic Issue Reporting** | Geo-tagged civic complaint platform featuring **MobileNetV2** image classification for issue verification & resolution workflows. | Python, Deep Learning, Computer Vision | [GitHub Repo](https://github.com/Tejakatkam/SMART-CIVIC-ISSUES-REPORTING-SYSTEM) |
+| **Smart Civic Issue Reporting** | Geo-tagged civic complaint platform featuring **MobileNetV2** image classification for issue verification & resolution workflows. | Python, Deep Learning, Computer Vision | [Live Demo](https://smart-civic-issues-reporting-system.onrender.com/) \| [GitHub Repo](https://github.com/Tejakatkam/SMART-CIVIC-ISSUES-REPORTING-SYSTEM) |
 | **Human Suspicious Activity Detection** | Real-time computer vision security system utilizing **ResNet** deep learning models to identify abnormal human activities. | Python, Deep Learning, OpenCV | [GitHub Repo](https://github.com/Tejakatkam/HUMAN-SUSPICIOUS-ACTIVITY-DETECTION) |
 | **Life Tracker** | Wellness companion platform with milestone tracking, automated email reminders, and weekly wellness reports. | Full Stack, Cloud Deployment | [Live Demo](https://lifetracker-9s6f.onrender.com) \| [GitHub Repo](https://github.com/Tejakatkam/LIFE-TRACK) |
 | **Personal Portfolio** | Modern personal portfolio website featuring a dynamic admin dashboard for content management. | Web Development, Database | [Live Demo](https://tejakatkam.onrender.com) \| [GitHub Repo](https://github.com/Tejakatkam/PORTFOLIO) |
